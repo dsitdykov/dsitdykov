@@ -1,4 +1,5 @@
 - 👋 Hi, I’m David
+- 🏢 Student at Vilniaus Gedimino Techinkos University 
 - 👀 I’m interested in programing and graphic design
 - 🌱 I’m currently learning Java-Script
 
