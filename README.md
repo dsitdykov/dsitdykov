@@ -1,5 +1,5 @@
 - 👋 Hi, I’m David
-- 🏢 Student at Vilniaus Gedimino Technikos University 
+- 🏢 Vilnius Tech Bachelor's degree in Software Engineering
 - 👀 I’m interested in programing and graphic design
 
 
